@@ -1,3 +1,3 @@
 # WaterCloudModel
 
-Work in progress (22/06/2021)
+`WaterCloudModel` will soon provide a Python implentation for the Water Cloud Model (WCM).
